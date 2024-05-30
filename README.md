@@ -3,6 +3,12 @@
 Este projeto tem como objetivo desenvolver um modelo preditivo para calcular o Score de Crédito de clientes utilizando técnicas de Machine Learning. 
 Através de um conjunto de etapas que incluem análise exploratória de dados, visualizações, tratamento de dados, tratamento de valores missing, engenharia de atributos, normalização dos dados, OneHotEncoding, além da criação, treino e teste de um modelo de Machine Learning, conseguimos prever o Score de Clientes baseados nas variáveis de entrada.
 
+# Projeto Completo
+
+Para acessar o projeto completo, clique no link:
+[Credit_Score](https://github.com/gaiecks/Credit-Score-Prediction-Using-ML/blob/main/Credit_Score.ipynb)
+
+
 ## Etapas do Projeto
 
 1. **Importação de Bibliotecas e Dataset:**
