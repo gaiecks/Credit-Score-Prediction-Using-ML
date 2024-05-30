@@ -13,18 +13,6 @@ Para acessar o projeto completo, clique no link:
 [Credit_Score](https://github.com/gaiecks/Credit-Score-Prediction-Using-ML/blob/main/Credit_Score.ipynb)
 
 
-## Bibliotecas Utilizadas
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import warnings
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score
-
 # Etapas do Projeto
 
 1. **Importação de Bibliotecas e Dataset:**
