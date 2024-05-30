@@ -1,6 +1,7 @@
 # Previsão de Score de Crédito com Machine Learning
 
 Este projeto tem como objetivo desenvolver um modelo preditivo para calcular o Score de Crédito de clientes utilizando técnicas de Machine Learning. 
+
 Através de um conjunto de etapas que incluem análise exploratória de dados, visualizações, tratamento de dados, tratamento de valores missing, engenharia de atributos, normalização dos dados, OneHotEncoding, além da criação, treino e teste de um modelo de Machine Learning, conseguimos prever o Score de Clientes baseados nas variáveis de entrada.
 
 O projeto foi desenvolvido na linguagem Python através do ambiente do Google Colab.
@@ -11,6 +12,18 @@ O projeto foi desenvolvido na linguagem Python através do ambiente do Google Co
 Para acessar o projeto completo, clique no link:
 [Credit_Score](https://github.com/gaiecks/Credit-Score-Prediction-Using-ML/blob/main/Credit_Score.ipynb)
 
+
+## Bibliotecas Utilizadas
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+import warnings
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, MinMaxScaler, LabelEncoder
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
 
 # Etapas do Projeto
 
